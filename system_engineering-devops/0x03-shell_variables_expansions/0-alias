@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls='rm *'
+alias ls="echo \"Warning: ls is disabled in this session\""
