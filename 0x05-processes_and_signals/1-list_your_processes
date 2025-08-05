@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# A Bash script that displays all running processes in a user-oriented format with hierarchy
+# A Bash script that displays all running processes with user and command only
 
-ps -eo user=USER,lstart=STARTED,cmd=CMD --forest
+ps -eo user=USER,cmd=CMD
