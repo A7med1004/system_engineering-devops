@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# A Bash script that displays all running processes with user and command only
+# A Bash script that displays the users running processes
 
-ps -eo user=USER,cmd=CMD
+ps -eo user=USER | uniq
