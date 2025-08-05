@@ -1,0 +1,8 @@
+total 12
+drwxr-xr-x 1 Ahmed 197121  0 Jul 13 18:12 .
+drwxr-xr-x 1 Ahmed 197121  0 Jul 13 01:46 ..
+-rwxr-xr-x 1 Ahmed 197121 40 Jul 13 17:51 6-third_line
+-rwxr-xr-x 1 Ahmed 197121 79 Jul 13 13:07 7-file
+-rwxr-xr-x 1 Ahmed 197121 36 Jul 13 18:17 8-cwd_state
+-rw-r--r-- 1 Ahmed 197121 93 Jul 13 17:50 iacta
+-rw-r--r-- 1 Ahmed 197121  0 Jul 13 18:17 ls_cwd_content
